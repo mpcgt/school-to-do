@@ -1,0 +1,20 @@
+/* Définit la largeur à 50% dans le groupe de boutons */
+.btn-group {
+  width: 30%;
+}
+
+.bg-black_gray {
+  background: linear-gradient(to bottom right, #374151, #111827, #000000);
+}
+
+nav {
+  background: linear-gradient(
+    180.2deg,
+    rgb(120, 85, 137) -6.9%,
+    rgb(35, 9, 31) 76.7%
+  );
+}
+
+.fa-list {
+  margin-right: 15px;
+}
